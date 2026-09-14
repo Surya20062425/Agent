@@ -1,0 +1,12 @@
+active_profile: default
+
+profiles:
+  default:
+    model: "google:gemini-1.5-flash"
+    temperature: 0.7
+  fast:
+    model: "groq:llama3-70b"
+    temperature: 0.1
+  local:
+    model: "ollama:llama3"
+    temperature: 0.7

@@ -1,0 +1,6 @@
+pydantic-ai
+typer[all]
+python-dotenv
+pyyaml
+rich
+duckduckgo-search
